@@ -1,0 +1,55 @@
+
+# DO NOT DELETE
+
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TEnv.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TObject.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/Rtypes.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/RConfig.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/RVersion.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/DllImport.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/Rtypeinfo.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/snprintf.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/strlcpy.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TGenericClassInfo.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TSchemaHelper.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TStorage.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TVersionCheck.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/Riosfwd.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TBuffer.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TString.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TMathBase.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TSystem.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TNamed.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TInetAddress.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TTimer.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TSysEvtHandler.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TQObject.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TTime.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TRegexp.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/Match.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TROOT.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TDirectory.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TList.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TSeqCollection.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TCollection.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TIterator.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TDatime.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TUUID.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TFile.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TDirectoryFile.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TMap.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/THashTable.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TUrl.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TClass.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TDictionary.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/Property.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/ESTLType.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TObjArray.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TObjString.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TClassTable.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TInterpreter.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TRandom3.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TRandom.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/TError.h
+/afs/cern.ch/user/j/jlawhorn/CMSSW_7_2_2_patch1/src/BaconAna/macros/setRootEnv_C.so: /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/cintdictversion.h /cvmfs/cms.cern.ch/slc6_amd64_gcc481/lcg/root/5.34.18-cms12/include/RVersion.h
+setRootEnv_C__ROOTBUILDVERSION= 5.34/18
