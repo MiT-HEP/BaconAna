@@ -6,6 +6,7 @@
 #include "BaconAna/DataFormats/interface/TGenJet.hh"
 #include "BaconAna/DataFormats/interface/TElectron.hh"
 #include "BaconAna/DataFormats/interface/TMuon.hh"
+#include "BaconAna/DataFormats/interface/TTau.hh"
 #include "BaconAna/DataFormats/interface/TJet.hh"
 #include "BaconAna/DataFormats/interface/TPhoton.hh"
 #include "BaconAna/DataFormats/interface/TVertex.hh"
@@ -25,6 +26,7 @@
 #pragma link C++ class baconhep::TGenJet+;
 #pragma link C++ class baconhep::TElectron+;
 #pragma link C++ class baconhep::TMuon+;
+#pragma link C++ class baconhep::TTau+;
 #pragma link C++ class baconhep::TJet+;
 #pragma link C++ class baconhep::TPhoton+;
 #pragma link C++ class baconhep::TVertex+;
