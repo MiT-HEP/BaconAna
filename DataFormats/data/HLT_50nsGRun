@@ -1,0 +1,57 @@
+// single electron
+HLT_Ele23_WPLoose_Gsf_v*                hltEGL1SingleEG20ORL1SingleEG15Filter                    1
+HLT_Ele23_WPLoose_Gsf_v*                hltEle23WPLooseGsfTrackIsoFilter                         2
+HLT_Ele22_WP75_Gsf_v*                   hltL1sL1SingleEG20                                       1
+HLT_Ele22_WP75_Gsf_v*                   hltEle22WP75GsfTrackIsoFilter                            2
+HLT_Ele23_WP75_Gsf_v*                   hltL1sL1SingleEG20                                       1
+HLT_Ele23_WP75_Gsf_v*                   hltEle23WP75GsfTrackIsoFilter                            2
+// single muon
+HLT_IsoMu20_v*                          hltL1sL1SingleMu16                                       1
+HLT_IsoMu20_v*                          hltL3crIsoL1sMu16L1f0L2f10QL3f20QL3trkIsoFiltered0p09    2
+
+// fragment.HLTEle23WPLooseGsfSequence = cms.Sequence( fragment.HLTDoFullUnpackingEgammaEcalSequence + 
+// fragment.HLTPFClusteringForEgamma + 
+// fragment.hltEgammaCandidates + 
+// fragment.hltEGL1SingleEG20ORL1SingleEG15Filter + 
+// fragment.hltEG23EtL1EG20ORL1EG15Filter + 
+// fragment.hltEgammaClusterShape + 
+// fragment.hltEle23WPLooseClusterShapeFilter + 
+// fragment.HLTDoLocalHcalWithTowerSequence + 
+// fragment.HLTFastJetForEgamma + 
+// fragment.hltEgammaHoverE + 
+// fragment.hltEle23WPLooseHEFilter + 
+// fragment.hltEgammaEcalPFClusterIso + 
+// fragment.hltEle23WPLooseEcalIsoFilter + 
+// fragment.HLTPFHcalClusteringForEgamma + 
+// fragment.hltEgammaHcalPFClusterIso + 
+// fragment.hltEle23WPLooseHcalIsoFilter + 
+// fragment.HLTDoLocalPixelSequence + 
+// fragment.HLTDoLocalStripSequence + 
+// fragment.hltMixedLayerPairs + 
+// fragment.hltEgammaElectronPixelSeeds + 
+// fragment.hltEle23WPLoosePixelMatchFilter + 
+// fragment.HLTGsfElectronSequence + 
+// fragment.hltEle23WPLooseGsfOneOEMinusOneOPFilter + 
+// fragment.hltEle23WPLooseGsfChi2Filter + 
+// fragment.hltEle23WPLooseGsfMissingHitsFilter + 
+// fragment.hltEle23WPLooseGsfDetaFilter + 
+// fragment.hltEle23WPLooseGsfDphiFilter + 
+// fragment.HLTTrackReconstructionForIsoElectronIter02 + 
+// fragment.hltEgammaEleGsfTrackIso + 
+// fragment.hltEle23WPLooseGsfTrackIsoFilter)
+
+//fragment.HLTEle22WP75GsfSequence = cms.Sequence( fragment.HLTDoFullUnpackingEgammaEcalSequence + fragment.HLTPFClusteringForEgamma + fragment.hltEgammaCandidates + fragment.hltEGL1SingleEG20Filter + fragment.hltEG22EtL1EG20Filter + fragment.hltEgammaClusterShape + fragment.hltEle22WP75ClusterShapeFilter + fragment.HLTDoLocalHcalWithTowerSequence + fragment.HLTFastJetForEgamma + fragment.hltEgammaHoverE + fragment.hltEle22WP75HcEFilter + fragment.hltEgammaEcalPFClusterIso + fragment.hltEle22WP75EcalIsoFilter + fragment.HLTPFHcalClusteringForEgamma + fragment.hltEgammaHcalPFClusterIso + fragment.hltEle22WP75HcalIsoFilter + fragment.HLTDoLocalPixelSequence + fragment.HLTDoLocalStripSequence + fragment.hltMixedLayerPairs + fragment.hltEgammaElectronPixelSeeds + fragment.hltEle22WP75PixelMatchFilter + fragment.HLTGsfElectronSequence + fragment.hltEle22WP75GsfOneOEMinusOneOPFilter + fragment.hltEle22WP75GsfChi2Filter + fragment.hltEle22WP75GsfDetaFilter + fragment.hltEle22WP75GsfDphiFilter + fragment.HLTTrackReconstructionForIsoElectronIter02 + fragment.hltEgammaEleGsfTrackIso + fragment.hltEle22WP75GsfTrackIsoFilter )
+
+//fragment.HLTEle23WP75GsfSequence = cms.Sequence( fragment.HLTDoFullUnpackingEgammaEcalSequence + fragment.HLTPFClusteringForEgamma + fragment.hltEgammaCandidates + fragment.hltEGL1SingleEG20Filter + fragment.hltEG23EtL1EG20Filter + fragment.hltEgammaClusterShape + fragment.hltEle23WP75ClusterShapeFilter + fragment.HLTDoLocalHcalWithTowerSequence + fragment.HLTFastJetForEgamma + fragment.hltEgammaHoverE + fragment.hltEle23WP75HcEFilter + fragment.hltEgammaEcalPFClusterIso + fragment.hltEle23WP75EcalIsoFilter + fragment.HLTPFHcalClusteringForEgamma + fragment.hltEgammaHcalPFClusterIso + fragment.hltEle23WP75HcalIsoFilter + fragment.HLTDoLocalPixelSequence + fragment.HLTDoLocalStripSequence + fragment.hltMixedLayerPairs + fragment.hltEgammaElectronPixelSeeds + fragment.hltEle23WP75PixelMatchFilter + fragment.HLTGsfElectronSequence + fragment.hltEle23WP75GsfOneOEMinusOneOPFilter + fragment.hltEle23WP75GsfChi2Filter + fragment.hltEle23WP75GsfDetaFilter + fragment.hltEle23WP75GsfDphiFilter + fragment.HLTTrackReconstructionForIsoElectronIter02 + fragment.hltEgammaEleGsfTrackIso + fragment.hltEle23WP75GsfTrackIsoFilter )
+
+//fragment.HLT_IsoMu20_v2 = cms.Path( fragment.HLTBeginSequence +
+// fragment.hltL1sL1SingleMu16 +
+// fragment.hltPreIsoMu20 +
+// fragment.hltL1fL1sMu16L1Filtered0 +
+// fragment.HLTL2muonrecoSequence +
+// fragment.hltL2fL1sMu16L1f0L2Filtered10Q +
+// fragment.HLTL3muonrecoSequence +
+// fragment.hltL3fL1sMu16L1f0L2f10QL3Filtered20Q +
+// fragment.HLTMu20IsolationSequence +
+// fragment.hltL3crIsoL1sMu16L1f0L2f10QL3f20QL3trkIsoFiltered0p09 +
+// fragment.HLTEndSequence )
