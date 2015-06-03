@@ -10,8 +10,7 @@ namespace baconhep
   public:
     TGenParticle():
       parent(-1), pdgId(0),status(0),
-      pt(0), eta(0), phi(0), mass(0), y(0),
-      decx(0), decy(0), decz(0)
+      pt(0), eta(0), phi(0), mass(0), y(0)
     {}
     ~TGenParticle(){}
     
@@ -19,7 +18,6 @@ namespace baconhep
     int   pdgId;
     int   status;
     float pt, eta, phi, mass, y;
-    float decx, decy, decz;
 
     ClassDef(TGenParticle,1)
   };
