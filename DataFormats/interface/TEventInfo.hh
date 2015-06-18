@@ -18,9 +18,9 @@ namespace baconhep
       bsx(0), bsy(0), bsz(0), 
       pfMET(0), pfMETphi(0), pfMETCov00(0), pfMETCov01(0), pfMETCov11(0),
       pfMETC(0), pfMETCphi(0), pfMETCCov00(0), pfMETCCov01(0), pfMETCCov11(0),
-//      mvaMET(0), mvaMETphi(0), mvaMETCov00(0), mvaMETCov01(0), mvaMETCov11(0),
-//      mvaMETU(0), mvaMETUphi(0), mvaMETUCov00(0), mvaMETUCov01(0), mvaMETUCov11(0),
-//      mvaMET0(0), mvaMET0phi(0), mvaMET0Cov00(0), mvaMET0Cov01(0), mvaMET0Cov11(0),
+      mvaMET(0), mvaMETphi(0), mvaMETCov00(0), mvaMETCov01(0), mvaMETCov11(0),
+      mvaMETU(0), mvaMETUphi(0), mvaMETUCov00(0), mvaMETUCov01(0), mvaMETUCov11(0),
+      mvaMET0(0), mvaMET0phi(0), mvaMET0Cov00(0), mvaMET0Cov01(0), mvaMET0Cov11(0),
       trkMET(0), trkMETphi(0),
       rhoIso(0), rhoJet(0),
       triggerBits(0),
@@ -38,12 +38,15 @@ namespace baconhep
       float         pfMETCov00, pfMETCov01, pfMETCov11;
       float         pfMETC, pfMETCphi;                         // corrected particle flow MET
       float         pfMETCCov00, pfMETCCov01, pfMETCCov11;
-//      float         mvaMET, mvaMETphi;                         // MVA MET
-//      float         mvaMETCov00, mvaMETCov01, mvaMETCov11;
-//      float         mvaMETU, mvaMETUphi;
-//      float         mvaMETUCov00, mvaMETUCov01, mvaMETUCov11;
-//      float         mvaMET0, mvaMET0phi;
-//      float         mvaMET0Cov00, mvaMET0Cov01, mvaMET0Cov11;
+      float         mvaMET, mvaMETphi;                         // MVA MET
+      float         mvaMETCov00, mvaMETCov01, mvaMETCov11;
+      float         mvaMETU, mvaMETUphi;
+      float         mvaMETUCov00, mvaMETUCov01, mvaMETUCov11;
+      float         mvaMET0, mvaMET0phi;
+      float         mvaMET0Cov00, mvaMET0Cov01, mvaMET0Cov11;
+      // add puppi met
+      float         puppET, puppETphi;
+      float         puppETCov00, puppETCov01, puppETCov11;
       float         trkMET, trkMETphi;                         // track MET
       float         rhoIso, rhoJet;                            // event energy density
       TriggerBits   triggerBits;                               // fired trigger bits
