@@ -24,7 +24,8 @@ namespace baconhep
       isConv(false), nMissingHits(0),
       typeBits(0), fiducialBits(0), classification(-999.),
       scID(-1), trkID(-1),
-      hltMatchBits(0)
+      hltMatchBits(0),
+      chi2(0), ndof(0), npixmatch(0)
       {}
       ~TElectron(){}
     
@@ -50,8 +51,11 @@ namespace baconhep
       int            scID;                                     // supercluster ID number (unique per event)
       int            trkID;                                    // track ID number (unique per event)
       TriggerObjects hltMatchBits;                             // HLT matches
+      float          chi2;
+      int            ndof;
+      int            npixmatch;
       
-    ClassDef(TElectron,2)
+    ClassDef(TElectron,3)
   };
 
   enum EEleType
