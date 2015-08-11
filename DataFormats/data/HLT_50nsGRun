@@ -8,6 +8,12 @@ HLT_Ele23_WP75_Gsf_v*                   hltEle23WP75GsfTrackIsoFilter           
 // single muon
 HLT_IsoMu20_v*                          hltL1sL1SingleMu16                                       1
 HLT_IsoMu20_v*                          hltL3crIsoL1sMu16L1f0L2f10QL3f20QL3trkIsoFiltered0p09    2
+HLT_IsoTkMu20_eta2p1_v*                 hltL3crIsoL1sMu16Eta2p1L1f0L2f10QL3f20QL3trkIsoFiltered0p09 1
+
+// single muon pre-scaled
+HLT_Mu20_v*                             hltL3fL1sMu16L1f0L2f10QL3Filtered20Q                    1
+HLT_Mu17_TrkIsoVVL_v*                   hltL3fL1sMu12L1f0L2f12L3Filtered17TkIsoFiltered0p4      1
+HLT_Mu8_TrkIsoVVL_v*                    hltL3fL1sMu5L1f0L2f5L3Filtered8TkIsoFiltered0p4         1
 
 // fragment.HLTEle23WPLooseGsfSequence = cms.Sequence( fragment.HLTDoFullUnpackingEgammaEcalSequence + 
 // fragment.HLTPFClusteringForEgamma + 
