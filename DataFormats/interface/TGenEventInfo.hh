@@ -22,6 +22,7 @@ namespace baconhep
     double xPDF_1,xPDF_2; // parton xF value
     double scalePDF;      // Q-scale used for PDF evaluation
     float weight;        // event weight
+    //std::vector<double> lheweight;  // lhe weights 
     
     ClassDef(TGenEventInfo,1)
   };
