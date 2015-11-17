@@ -1,2 +1,2 @@
 # BaconAna 
-from ksung25, csa14 setup
+W/Z analysis: Bacon data formats
