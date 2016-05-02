@@ -10,6 +10,7 @@
 #include "BaconAna/DataFormats/interface/TJet.hh"
 #include "BaconAna/DataFormats/interface/TPhoton.hh"
 #include "BaconAna/DataFormats/interface/TVertex.hh"
+#include "BaconAna/DataFormats/interface/TPFPart.hh"
 #endif
 
 #ifdef __CINT__
@@ -30,4 +31,5 @@
 #pragma link C++ class baconhep::TJet+;
 #pragma link C++ class baconhep::TPhoton+;
 #pragma link C++ class baconhep::TVertex+;
+#pragma link C++ class baconhep::TPFPart+;
 #endif
