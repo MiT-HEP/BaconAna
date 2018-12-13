@@ -7,19 +7,9 @@ HLT_HIEle17_WPLoose_Gsf_v*              hltEle17WPLoose1GsfTrackIsoFilterForHI  
 HLT_HIEle15_WPLoose_Gsf_v*              hltEle15WPLoose1GsfTrackIsoFilterForHI                  1
 HLT_HIEle20_WPLoose_Gsf_v*              hltEle20WPLoose1GsfTrackIsoFilterForHI                  1
 
-// single muon
-HLT_IsoMu20_v*                          hltL3crIsoL1sMu18L1f0L2f10QL3f20QL3trkIsoFiltered0p09    1
-HLT_IsoTkMu20_eta2p1_v*                 hltL3crIsoL1sMu18Eta2p1L1f0L2f10QL3f20QL3trkIsoFiltered0p09 1
-HLT_IsoMu24_v*                          hltL3crIsoL1sMu22L1f0L2f10QL3f24QL3trkIsoFiltered0p09    1
-HLT_IsoMu27_v*                          hltL3crIsoL1sMu22Or25L1f0L2f10QL3f27QL3trkIsoFiltered0p09    1
-
-// single muon pre-scaled
-HLT_IsoMu22_v*                          hltL3crIsoL1sMu20L1f0L2f10QL3f22QL3trkIsoFiltered0p09   1    
-HLT_IsoTkMu18_v*                        hltL3fL1sMu16L1f0Tkf18QL3trkIsoFiltered0p09             1
-HLT_Ele27_WPLoose_Gsf_v*                hltEle27noerWPLooseGsfTrackIsoFilter                    1
-HLT_Ele22_eta2p1_WP75_Gsf_v*            hltEle22WP75GsfTrackIsoFilter                           1
-HLT_Ele27_eta2p1_WP75_Gsf_v*            hltEle27WP75GsfTrackIsoFilter                           1
-HLT_Ele22_eta2p1_WPLoose_Gsf_v*         hltEle22WPLooseGsfTrackIsoFilter                        1 
-HLT_Ele25_eta2p1_WPTight_Gsf_v*         hltEle25erWPTightGsfTrackIsoFilter                      1
+// MC
+HLT_Mu8_v*                              hltL3fL1sMu5L1f0L2f5L3Filtered8                          1
+HLT_Mu17_v*                             hltL3fL1sMu10lqL1f0L2f10L3Filtered17                     1
+HLT_IsoMu20_v*                          hltL3crIsoL1sMu18L1f0L2f10QL3f20QL3trkIsoFiltered0p07    1
+HLT_IsoMu24_v*                          hltL3crIsoL1sSingleMu22L1f0L2f10QL3f24QL3trkIsoFiltered0p07    1                  
 HLT_Ele27_WPTight_Gsf_v*                hltEle27WPTightGsfTrackIsoFilter                        1
-HLT_Ele27_eta2p1_WPLoose_Gsf_v*         hltEle27erWPLooseGsfTrackIsoFilter                      1
